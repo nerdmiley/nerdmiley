@@ -1,6 +1,6 @@
 ![Header](./assets/header-wave.png)
 
-<p align="center" href="https://github.com/nerdmiley">
+<p align="center">
   <img height="80" src="./assets/image.png">
   <img height="60" src="./assets/name.png">
 </p>
