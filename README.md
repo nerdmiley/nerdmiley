@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=nerdmiley&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
-  <img alt="followers" src="https://img.shields.io/github/followers/nerdmiley?color=f429ff&style=for-the-badge&logo=github&label=Follow"/>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=nerdmiley&countColorcountColor&countColor=%235865f2" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/nerdmiley?color=%235865f2&style=for-the-badge&logo=github&label=Follow" alt="followers"/>
 </p>
 
 <h3 align="center">Current Known Languages</h3>
