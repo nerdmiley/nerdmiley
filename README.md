@@ -16,6 +16,7 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 </p>
 
 <p align="center">
