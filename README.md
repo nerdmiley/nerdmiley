@@ -12,7 +12,7 @@
 
 <h3 align="center">Current Known Things</h3>
 <p align="center">
-  <code><img height="20" style="background-color: red;" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
