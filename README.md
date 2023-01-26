@@ -10,12 +10,14 @@
   <img src="https://img.shields.io/github/followers/nerdmiley?color=%235865f2&style=for-the-badge&logo=github&label=Follow" alt="followers"/>
 </p>
 
-<h3 align="center">Current Known Languages</h3>
+<h3 align="center">Current Known Things</h3>
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 </p>
 
 <p align="center">
